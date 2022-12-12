@@ -2,7 +2,7 @@
 Predicting Hotel Booking Cancellations
 Nesara Kashyap, Omkar Pradhan, Francesco Boccardo
 
-1. Summary
+Summary
 
 No-shows or cancellations result in a sizable portion of hotel reservations being canceled. Common reasons for cancellation include change of plans, availability of better options, unforeseen circumstances etc. Many of the hotels charge a minimal amount for cancellations, hence last-minute cancellation has a huge impact on hotel revenues, because the canceled bookings generally end up remaining vacant. We use the ‘Hotel Booking Cancellation’ dataset [1] which has historical information of real time booking cancellations of both a city hotel and a resort hotel. It has 32 attributes like cost of booking, room type, number of adults, number of children, gender, previous booking canceled or not etc. The goal of this project is to investigate which features/variables of the dataset have higher effects on booking cancellations, and to use a machine learning model to try to predict which booking is more likely to be canceled. 
 
